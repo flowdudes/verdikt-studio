@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(chromium-cli screenshot *)",
+      "PowerShell(npx next build --no-lint 2>&1)",
+      "PowerShell(npx next build 2>&1)"
+    ]
+  }
+}
